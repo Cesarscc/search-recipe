@@ -1,0 +1,589 @@
+[
+  {
+    "nombre": "Ceviche",
+    "descripcion": "Plato de pescado crudo marinado en jugo de limón, acompañado de cebolla, ají y maíz.",
+    "foto": "ceviche.jpg",
+    "tipo": "Entrada",
+    "ingredientes": "Filete de pescado blanco, limones, cebolla roja, ají amarillo, maíz, cilantro, sal, pimienta",
+    "preparacion": "Cortar el pescado en cubos, exprimir los limones y marinar el pescado en el jugo de limón por 20 minutos. Luego, agregar cebolla cortada en juliana, ají amarillo cortado en tiras, maíz cocido, cilantro picado, sal y pimienta al gusto. Mezclar bien y servir frío.",
+    "nutricional": "250 calorías"
+  },
+  {
+    "nombre": "Lomo Saltado",
+    "descripcion": "Plato de carne de res salteada con cebolla, tomate, ají y acompañada de papas fritas.",
+    "foto": "lomo_saltado.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Filete de res, cebolla, tomate, ají amarillo, papas, vinagre, salsa de soja, cilantro, sal, pimienta",
+    "preparacion": "Cortar la carne en tiras y saltearla en un sartén caliente con un poco de aceite. Agregar cebolla cortada en tiras, tomate cortado en gajos, ají amarillo cortado en tiras, papas fritas, vinagre, salsa de soja, cilantro picado, sal y pimienta al gusto. Saltear todo junto hasta que los ingredientes estén bien cocidos.",
+    "nutricional": "350 calorías"
+  },
+  {
+    "nombre": "Aji de Gallina",
+    "descripcion": "Plato hecho a base de gallina deshilachada y ají amarillo, acompañado de papas y arroz.",
+    "foto": "aji_de_gallina.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Pechuga de gallina, ají amarillo, pan remojado en leche, cebolla, ajo, nueces, queso parmesano, papas, arroz, leche evaporada, aceitunas negras, huevos, aceite, sal, pimienta",
+    "preparacion": "Cocer la pechuga de gallina y desmenuzarla. Preparar una salsa con ají amarillo, cebolla, ajo, pan remojado en leche, nueces, queso parmesano y leche evaporada. Saltear la salsa con la gallina desmenuzada y agregar papas cocidas y troceadas. Servir con arroz blanco, aceitunas negras y huevo duro cortado en rodajas.",
+    "nutricional": "400 calorías"
+  },
+  {
+    "nombre": "Anticuchos",
+    "descripcion": "Brochetas de corazón de res marinadas en adobo y asadas a la parrilla.",
+    "foto": "anticuchos.jpg",
+    "tipo": "Entrada",
+    "ingredientes": "Corazón de res, ají panca, ajo, vinagre, comino, orégano, pimienta, sal, aceite, papas cocidas, maíz, choclo",
+    "preparacion": "Marinar el corazón de res en una mezcla de ají panca, ajo, vinagre, comino, orégano, pimienta, sal y aceite. Ensartar los trozos de corazón en brochetas y asar a la parrilla hasta que estén bien cocidos. Servir con papas cocidas, maíz y choclo.",
+    "nutricional": "300 calorías"
+  },
+  {
+    "nombre": "Papa a la Huancaina",
+    "descripcion": "Papas cocidas en rodajas cubiertas con una salsa de ají amarillo, queso fresco y leche.",
+    "foto": "papa_a_la_huancaina.jpg",
+    "tipo": "Entrada",
+    "ingredientes": "Papas amarillas, ají amarillo, queso fresco, leche, galletas, ajo, aceite, lechuga, huevos, aceitunas, sal, pimienta",
+    "preparacion": "Cocer las papas en agua con sal hasta que estén tiernas. Licuar ají amarillo, queso fresco, leche, galletas, ajo, aceite, sal y pimienta hasta obtener una salsa espesa. Servir las papas cocidas en rodajas cubiertas con la salsa y acompañadas de hojas de lechuga, huevos duros cortados en rodajas y aceitunas negras.",
+    "nutricional": "280 calorías"
+  },
+  {
+    "nombre": "Tamales Peruanos",
+    "descripcion": "Envolturas de masa de maíz rellenas con una mezcla de carne de cerdo, aceitunas, pasas, huevo y condimentos, cocidas al vapor y servidas como plato tradicional.",
+    "foto": "tamales_peruanos.jpg",
+    "tipo": "Entrada",
+    "ingredientes": "Masa de maíz, carne de cerdo, aceitunas, pasas, huevos, ají amarillo, comino, ajo, hojas de plátano",
+    "preparacion": "Preparar un aderezo con ají amarillo, comino, ajo y sal. Cocinar la carne de cerdo con este aderezo hasta que esté tierna. Desmenuzar la carne y mezclar con aceitunas picadas, pasas y huevos duros picados. Extender una porción de masa de maíz sobre una hoja de plátano, colocar el relleno en el centro y envolver en forma de tamal. Cocinar al vapor hasta que la masa esté cocida.",
+    "nutricional": "280 calorías"
+  },
+  {
+    "nombre": "Rocoto Relleno",
+    "descripcion": "Pimiento rocoto relleno con una mezcla de carne molida, cebolla, ajo, ají amarillo y queso, horneado y gratinado.",
+    "foto": "rocoto_relleno.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Rocotos, carne molida, cebolla, ajo, ají amarillo, queso fresco, leche, pan remojado en leche, huevos, aceite, sal, pimienta",
+    "preparacion": "Cortar los rocotos por la mitad y retirar las semillas. Cocerlos en agua con sal hasta que estén tiernos. Preparar un relleno con carne molida, cebolla, ajo, ají amarillo, queso fresco, leche, pan remojado en leche, sal y pimienta. Rellenar los rocotos con esta mezcla y cubrir con huevo batido. Hornear hasta que estén dorados y gratinados.",
+    "nutricional": "320 calorías"
+  },
+  {
+    "nombre": "Tacacho con Cecina",
+    "descripcion": "Plato típico de la selva peruana que consiste en un puré de plátano verde frito llamado tacacho, acompañado de cecina (carne de cerdo seca y ahumada) y chorizo criollo.",
+    "foto": "tacacho_cecina.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Plátano verde, cecina, chorizo criollo, manteca de cerdo, sal",
+    "preparacion": "Cocinar los plátanos verdes y hacer un puré con sal. Formar bolitas con el puré y freír en manteca de cerdo caliente hasta que estén doradas por fuera. Servir con cecina y chorizo criollo.",
+    "nutricional": "490 calorías"
+  },
+  {
+    "nombre": "Ají de Pollo",
+    "descripcion": "Plato a base de pollo cocido en una salsa de ají amarillo, cebolla, ajo, maní, galletas, queso fresco y hierbas aromáticas, servido con arroz blanco.",
+    "foto": "aji_pollo.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Pollo, ají amarillo, cebolla, ajo, maní, galletas, queso fresco, hierbas aromáticas, arroz, aceite, sal",
+    "preparacion": "Cocinar el pollo en agua con sal hasta que esté tierno. Desmenuzar el pollo y reservar. Preparar una salsa con ají amarillo, cebolla, ajo, maní tostado, galletas, queso fresco rallado y hierbas aromáticas. Cocinar la salsa hasta que espese. Agregar el pollo desmenuzado y cocinar por unos minutos más. Servir con arroz blanco.",
+    "nutricional": "370 calorías"
+  },
+  {
+    "nombre": "Chaufa de Pollo",
+    "descripcion": "Arroz salteado con trozos de pollo, huevo, cebolla, cebollín, ají amarillo, sillao y jengibre, inspirado en la comida china pero con sabores peruanos.",
+    "foto": "chaufa_pollo.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Arroz, pollo, huevo, cebolla, cebollín, ají amarillo, sillao, jengibre, ajo, aceite, sal",
+    "preparacion": "Cocinar el arroz y dejar enfriar. Saltear el pollo en una sartén con aceite caliente hasta que esté dorado. Agregar cebolla, cebollín, ají amarillo, jengibre y ajo picados y saltear por unos minutos más. Incorporar el arroz cocido y mezclar bien. Hacer un hueco en el centro de la sartén y verter los huevos batidos. Revolver rápidamente hasta que los huevos estén cocidos y se integren con el arroz. Condimentar con sillao y sal al gusto.",
+    "nutricional": "420 calorías"
+  },
+  {
+    "nombre": "Pachamanca",
+    "descripcion": "Plato tradicional peruano que consiste en la cocción de carne de res, cerdo, pollo, camote, papa, yuca y humitas en un horno precalentado sobre piedras calientes.",
+    "foto": "pachamanca.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Carne de res, carne de cerdo, pollo, camote, papa, yuca, humitas, hojas de bijao",
+    "preparacion": "Preparar una cama de piedras calientes en un hoyo excavado en el suelo. Colocar las carnes sazonadas con sal y especias sobre las piedras. Cubrir con hojas de bijao y agregar las verduras como camote, papa y yuca. Colocar las humitas envueltas en hojas de maíz. Cubrir todo con más hojas de bijao y tapar con tierra. Dejar cocinar durante varias horas hasta que todo esté tierno.",
+    "nutricional": "500 calorías"
+  },
+  {
+    "nombre": "Rocoto Relleno con Pastel de Papa",
+    "descripcion": "Rocotos rellenos de una mezcla de carne molida, cebolla, ajo y condimentos, gratinados al horno y servidos con un pastel de papas.",
+    "foto": "rocoto_relleno_pastel_papa.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Rocotos, carne molida, cebolla, ajo, ají amarillo, aceitunas, huevos, queso fresco, leche, mantequilla, papas, aceite, sal, pimienta",
+    "preparacion": "Cocinar los rocotos en agua con sal hasta que estén tiernos. Preparar un relleno con carne molida, cebolla, ajo, ají amarillo picado, aceitunas picadas, huevo batido, queso fresco rallado, sal y pimienta. Rellenar los rocotos con esta mezcla y gratinar en el horno hasta que estén dorados. Para el pastel de papas, cocinar papas y hacer un puré con queso fresco, leche, mantequilla, sal y pimienta. Extender una capa de puré en un molde, añadir el relleno de carne y cubrir con otra capa de puré. Hornear hasta que esté dorado.",
+    "nutricional": "430 calorías"
+  },
+  {
+    "nombre": "Carapulcra",
+    "descripcion": "Guiso espeso hecho con papas secas molidas, carne de cerdo, maní, ají panca y especias, acompañado de arroz blanco y salsa de cebolla.",
+    "foto": "carapulcra.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Papas secas molidas, carne de cerdo, maní, ají panca, cebolla, ajo, comino, pimienta, arroz, aceite, sal",
+    "preparacion": "Dorar la carne de cerdo en una olla con aceite caliente. Agregar cebolla y ajo picados, ají panca molido, comino, pimienta y sal. Cocinar hasta que la cebolla esté transparente. Agregar papas secas molidas, maní molido y agua. Cocinar a fuego lento hasta que la carne esté tierna y la salsa espese. Servir con arroz blanco y salsa de cebolla.",
+    "nutricional": "390 calorías"
+  },
+  {
+    "nombre": "Ceviche de Conchas Negras",
+    "descripcion": "Ceviche preparado con conchas negras marinadas en jugo de limón, ají limo, cebolla roja y cilantro, servido con camote y maíz.",
+    "foto": "ceviche_conchas_negras.jpg",
+    "tipo": "Entrada",
+    "ingredientes": "Conchas negras, limones, ají limo, cebolla roja, cilantro, camote, maíz, sal, pimienta",
+    "preparacion": "Limpiar las conchas negras y cortar en trozos pequeños. Marinar las conchas en jugo de limón, ají limo picado, cebolla roja en rodajas y cilantro picado. Dejar reposar en el refrigerador por unos minutos. Servir con camote y maíz cocidos. Salpimentar al gusto.",
+    "nutricional": "260 calorías"
+  },
+  {
+    "nombre": "Ocopa Arequipeña",
+    "descripcion": "Papas cocidas cubiertas con una salsa de ají, maní, galletas, queso fresco y huacatay, acompañadas de huevo duro, aceitunas y rocoto.",
+    "foto": "ocopa_arequipena.jpg",
+    "tipo": "Entrada",
+    "ingredientes": "Papas amarillas, ají amarillo, maní, galletas, queso fresco, huacatay, leche evaporada, aceitunas, rocoto, huevos",
+    "preparacion": "Cocinar las papas y cortar en rodajas. Preparar una salsa con ají amarillo, maní tostado, galletas, queso fresco rallado, huacatay y leche evaporada. Licuar los ingredientes hasta obtener una salsa espesa. Cubrir las papas con esta salsa y decorar con huevo duro picado, aceitunas y rodajas de rocoto.",
+    "nutricional": "310 calorías"
+  },
+  {
+    "nombre": "Tiradito",
+    "descripcion": "Plato similar al ceviche, pero el pescado es cortado en láminas delgadas y marinado en una salsa de ají amarillo, limón, aceite y ajo, servido con maíz y camote.",
+    "foto": "tiradito.jpg",
+    "tipo": "Entrada",
+    "ingredientes": "Filete de pescado blanco, ají amarillo, limón, ajo, aceite de oliva, maíz, camote, cilantro, sal",
+    "preparacion": "Cortar el pescado en láminas delgadas y disponer en un plato. Preparar una salsa con ají amarillo molido, jugo de limón, ajo picado y aceite de oliva. Verter la salsa sobre el pescado. Servir con maíz cocido y rodajas de camote. Decorar con cilantro picado y sal al gusto.",
+    "nutricional": "290 calorías"
+  },
+  {
+    "nombre": "Causa Limeña",
+    "descripcion": "Pastel de puré de papa amarilla con ají amarillo, relleno con atún, pollo, mariscos o vegetales.",
+    "foto": "causa_limena.jpg",
+    "tipo": "Entrada",
+    "ingredientes": "Papas amarillas, ají amarillo, limón, aceite, sal, pimienta, atún en lata, mayonesa, palta, huevos duros, aceitunas, hojas de lechuga",
+    "preparacion": "Cocer las papas en agua con sal hasta que estén tiernas. Hacer un puré con las papas cocidas, ají amarillo, limón, aceite, sal y pimienta. Extender una capa de puré en un molde, añadir una capa de relleno (atún, pollo desmenuzado, mariscos o vegetales) y cubrir con otra capa de puré. Decorar con palta en rodajas, huevo duro cortado en rodajas y aceitunas negras. Refrigerar antes de servir.",
+    "nutricional": "290 calorías"
+  },
+  {
+    "nombre": "Adobo de Chancho",
+    "descripcion": "Plato tradicional de cerdo marinado en una mezcla de ají panca, chicha de jora, vinagre, ajo y especias, cocido lentamente hasta que la carne esté tierna, servido con papas sancochadas y maíz tostado.",
+    "foto": "adobo_chancho.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Pierna de cerdo, ají panca, chicha de jora, vinagre, ajo, comino, orégano, pimienta, papas, maíz, aceite, sal",
+    "preparacion": "Marinar la pierna de cerdo con ají panca molido, chicha de jora, vinagre, ajo picado, comino, orégano, pimienta y sal. Dejar reposar durante varias horas o toda la noche. Cocinar la carne marinada a fuego lento hasta que esté tierna y la salsa se reduzca. Servir con papas sancochadas y maíz tostado.",
+    "nutricional": "450 calorías"
+  },
+  {
+    "nombre": "Arroz Zambito",
+    "descripcion": "Postre a base de arroz cocido en chancaca (melaza de caña), canela y clavo de olor, servido con pasas y nueces.",
+    "foto": "arroz_zambito.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Arroz, chancaca, canela, clavo de olor, pasas, nueces",
+    "preparacion": "Cocinar arroz en agua con canela y clavo de olor hasta que esté tierno. Aparte, derretir chancaca en agua caliente hasta obtener un jarabe espeso. Mezclar el arroz cocido con el jarabe de chancaca y cocinar a fuego lento hasta que se integren los sabores. Servir con pasas y nueces.",
+    "nutricional": "280 calorías"
+  },
+  {
+    "nombre": "Mazamorra de Calabaza",
+    "descripcion": "Postre dulce hecho a base de calabaza cocida en una mezcla de leche, azúcar, canela y maicena, servido frío.",
+    "foto": "mazamorra_calabaza.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Calabaza, leche, azúcar, canela, maicena",
+    "preparacion": "Cocinar la calabaza en agua hasta que esté tierna. Aparte, preparar una mezcla de leche, azúcar, canela y maicena. Incorporar la calabaza cocida a la mezcla y cocinar hasta que espese. Dejar enfriar y refrigerar antes de servir.",
+    "nutricional": "250 calorías"
+  },
+  {
+    "nombre": "Tequeños",
+    "descripcion": "Entrante compuesto por palitos de masa de harina de trigo rellenos de queso fresco, envueltos en masa y fritos hasta que estén dorados y crujientes.",
+    "foto": "tequenos.jpg",
+    "tipo": "Entrada",
+    "ingredientes": "Harina de trigo, queso fresco, aceite, sal",
+    "preparacion": "Estirar la masa de harina de trigo y cortar en tiras. Colocar trozos de queso fresco en un extremo de cada tira y enrollar para formar los tequeños. Freír en aceite caliente hasta que estén dorados y crujientes. Escurrir sobre papel absorbente y servir caliente.",
+    "nutricional": "300 calorías"
+  },
+  {
+    "nombre": "Ceviche de Champiñones",
+    "descripcion": "Variante vegetariana del ceviche tradicional peruano, preparado con champiñones frescos marinados en jugo de limón, ají limo, cilantro, cebolla morada y servido con camote y choclo.",
+    "foto": "ceviche_champinones.jpg",
+    "tipo": "Dieta",
+    "ingredientes": "Champiñones, limón, ají limo, cilantro, cebolla morada, camote, choclo, sal",
+    "preparacion": "Rebanar los champiñones y marinar en jugo de limón con ají limo picado, cilantro picado y cebolla morada en rodajas. Dejar reposar en el refrigerador por unos minutos. Servir acompañado de camote cocido y choclo cocido.",
+    "nutricional": "150 calorías"
+  },
+  {
+    "nombre": "Ensalada de Quinua",
+    "descripcion": "Ensalada nutritiva y saludable elaborada con quinua cocida, acompañada de vegetales frescos como tomate, pepino, pimiento, cebolla morada y aliñada con limón y aceite de oliva.",
+    "foto": "ensalada_quinua.jpg",
+    "tipo": "Dieta",
+    "ingredientes": "Quinua, tomate, pepino, pimiento, cebolla morada, limón, aceite de oliva, sal",
+    "preparacion": "Cocinar la quinua en agua con sal hasta que esté tierna. Dejar enfriar. Picar tomate, pepino, pimiento y cebolla morada en cubos pequeños. Mezclar con la quinua cocida. Aliñar con jugo de limón, aceite de oliva y sal al gusto.",
+    "nutricional": "180 calorías"
+  },
+  {
+    "nombre": "Sopa de Verduras",
+    "descripcion": "Sopa ligera y reconfortante preparada con una variedad de verduras como zanahoria, calabacín, brócoli y espinacas, cocidas en un caldo de vegetales y aromatizada con hierbas frescas.",
+    "foto": "sopa_verduras.jpg",
+    "tipo": "Dieta",
+    "ingredientes": "Zanahoria, calabacín, brócoli, espinacas, caldo de vegetales, cebolla, ajo, perejil, sal",
+    "preparacion": "Picar zanahoria, calabacín, brócoli y espinacas en trozos pequeños. Saltear cebolla y ajo en una olla con aceite caliente. Agregar las verduras picadas y cocinar por unos minutos. Verter caldo de vegetales y llevar a ebullición. Cocinar hasta que las verduras estén tiernas. Servir con perejil picado y sal al gusto.",
+    "nutricional": "120 calorías"
+  },
+  {
+    "nombre": "Sopa de Quinua y Vegetales",
+    "descripcion": "Sopa reconfortante y nutritiva elaborada con quinua cocida, calabaza, zanahoria, espinacas y caldo de vegetales, sazonada con hierbas aromáticas.",
+    "foto": "sopa_quinua_vegetales.jpg",
+    "tipo": "Dieta",
+    "ingredientes": "Quinua, calabaza, zanahoria, espinacas, caldo de vegetales, cebolla, ajo, perejil, sal",
+    "preparacion": "Cocinar la quinua en caldo de vegetales hasta que esté tierna. Agregar calabaza y zanahoria cortadas en cubos, espinacas picadas, cebolla y ajo picados. Cocinar hasta que las verduras estén tiernas. Servir con perejil picado y sal al gusto.",
+    "nutricional": "160 calorías"
+  },
+  {
+    "nombre": "Tiradito de Champiñones",
+    "descripcion": "Plato similar al ceviche, preparado con champiñones cortados en láminas finas y marinados en una mezcla de jugo de limón, ají amarillo, cilantro, ajo y servido con camote y choclo.",
+    "foto": "tiradito_champinones.jpg",
+    "tipo": "Dieta",
+    "ingredientes": "Champiñones, limón, ají amarillo, cilantro, ajo, camote, choclo, sal",
+    "preparacion": "Rebanar los champiñones en láminas finas y marinar en jugo de limón con ají amarillo picado, cilantro picado y ajo picado. Dejar reposar en el refrigerador por unos minutos. Servir acompañado de camote cocido y choclo cocido.",
+    "nutricional": "140 calorías"
+  },
+  {
+    "nombre": "Ensalada de Alcachofas",
+    "descripcion": "Ensalada fresca y nutritiva preparada con corazones de alcachofa cocidos, acompañados de tomate, espárragos, aceitunas y aliñada con vinagreta de limón y aceite de oliva.",
+    "foto": "ensalada_alcachofas.jpg",
+    "tipo": "Dieta",
+    "ingredientes": "Alcachofas, tomate, espárragos, aceitunas, limón, aceite de oliva, sal",
+    "preparacion": "Cocinar los corazones de alcachofa en agua con sal hasta que estén tiernos. Dejar enfriar y cortar en mitades. Picar tomate y espárragos. Mezclar todos los ingredientes en un tazón. Aliñar con una vinagreta hecha con jugo de limón, aceite de oliva y sal al gusto.",
+    "nutricional": "160 calorías"
+  },
+  {
+    "nombre": "Ensalada de Quinoa y Vegetales",
+    "descripcion": "Ensalada saludable y nutritiva elaborada con quinoa cocida, acompañada de una variedad de vegetales frescos como pepino, tomate, pimiento y cebolla, aliñada con limón y aceite de oliva.",
+    "foto": "ensalada_quinoa_vegetales.jpg",
+    "tipo": "Dieta",
+    "ingredientes": "Quinoa, pepino, tomate, pimiento, cebolla, limón, aceite de oliva, sal",
+    "preparacion": "Cocinar la quinoa en agua con sal hasta que esté tierna. Dejar enfriar. Picar pepino, tomate, pimiento y cebolla en cubos pequeños. Mezclar todos los ingredientes en un tazón. Aliñar con jugo de limón, aceite de oliva y sal al gusto.",
+    "nutricional": "170 calorías"
+  },
+  {
+    "nombre": "Sopa de Lentejas",
+    "descripcion": "Sopa reconfortante y nutritiva preparada con lentejas cocidas, zanahoria, apio, cebolla y tomate, sazonada con hierbas aromáticas y servida con una cucharada de yogurt griego.",
+    "foto": "sopa_lentejas.jpg",
+    "tipo": "Dieta",
+    "ingredientes": "Lentejas, zanahoria, apio, cebolla, tomate, caldo de vegetales, yogurt griego, perejil, sal",
+    "preparacion": "Cocinar las lentejas en caldo de vegetales con zanahoria, apio, cebolla y tomate hasta que estén tiernas. Sazonar con hierbas aromáticas y sal al gusto. Servir caliente, adornado con perejil picado y una cucharada de yogurt griego.",
+    "nutricional": "180 calorías"
+  },
+  {
+    "nombre": "Sopa de Zapallo",
+    "descripcion": "Sopa reconfortante y saludable preparada con zapallo cocido, cebolla, ajo y caldo de vegetales, sazonada con hierbas aromáticas y servida con una cucharada de queso fresco.",
+    "foto": "sopa_zapallo.jpg",
+    "tipo": "Dieta",
+    "ingredientes": "Zapallo, cebolla, ajo, caldo de vegetales, queso fresco, perejil, sal",
+    "preparacion": "Cocinar el zapallo en caldo de vegetales con cebolla y ajo hasta que esté tierno. Licuar hasta obtener una mezcla suave. Servir caliente, adornado con perejil picado y una cucharada de queso fresco.",
+    "nutricional": "130 calorías"
+  },
+  {
+    "nombre": "Tortilla de Verduras",
+    "descripcion": "Tortilla saludable hecha con claras de huevo batidas y mezcladas con una variedad de vegetales como brócoli, pimiento, cebolla y espinacas, cocida a la sartén.",
+    "foto": "tortilla_verduras.jpg",
+    "tipo": "Dieta",
+    "ingredientes": "Claras de huevo, brócoli, pimiento, cebolla, espinacas, aceite de oliva, sal",
+    "preparacion": "Batir las claras de huevo en un tazón. Agregar brócoli cocido, pimiento picado, cebolla picada y espinacas picadas. Mezclar bien. Calentar un poco de aceite de oliva en una sartén antiadherente y verter la mezcla de huevo y verduras. Cocinar a fuego medio-bajo hasta que esté firme por ambos lados. Servir caliente.",
+    "nutricional": "160 calorías"
+  },
+  {
+    "nombre": "Ensalada de Beterraga",
+    "descripcion": "Ensalada colorida y nutritiva preparada con beterraga cocida, acompañada de lechuga, aguacate, nueces y aliñada con una vinagreta de mostaza y miel.",
+    "foto": "ensalada_beterraga.jpg",
+    "tipo": "Dieta",
+    "ingredientes": "Beterraga, lechuga, aguacate, nueces, mostaza, miel, limón, aceite de oliva, sal",
+    "preparacion": "Cocinar la beterraga en agua con sal hasta que esté tierna. Dejar enfriar, pelar y cortar en cubos. Picar lechuga, aguacate y nueces. Mezclar todos los ingredientes en un tazón. Aliñar con una vinagreta hecha con mostaza, miel, jugo de limón, aceite de oliva y sal al gusto.",
+    "nutricional": "170 calorías"
+  },
+  {
+    "nombre": "Trucha a la Parrilla",
+    "descripcion": "Filete de trucha marinado en limón, ajo y especias, asado a la parrilla y servido con una guarnición de ensalada fresca y papas doradas.",
+    "foto": "trucha_parrilla.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Filete de trucha, limón, ajo, pimienta, aceite, papas, lechuga, tomate, cebolla, limón, aceite de oliva, sal",
+    "preparacion": "Marinar el filete de trucha con jugo de limón, ajo picado, pimienta y sal al gusto. Asar a la parrilla hasta que esté cocido por ambos lados. Servir con papas doradas y ensalada fresca de lechuga, tomate y cebolla aliñada con limón y aceite de oliva.",
+    "nutricional": "350 calorías"
+  },
+  {
+    "nombre": "Tallarines Verdes",
+    "descripcion": "Plato de pasta elaborado con tallarines verdes preparados con una salsa a base de espinacas, huacatay, queso fresco, leche y ajos, servidos con bistec a la parrilla.",
+    "foto": "tallarines_verdes.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Tallarines, espinacas, huacatay, queso fresco, leche, ajo, carne de res, aceite, sal",
+    "preparacion": "Cocinar los tallarines en agua con sal hasta que estén al dente. Licuar espinacas con huacatay, queso fresco, leche, ajo y sal hasta obtener una salsa verde. Cocinar la salsa en una sartén hasta que espese ligeramente. Servir los tallarines con bistec a la parrilla y salsa verde encima.",
+    "nutricional": "420 calorías"
+  },
+
+  {
+    "nombre": "Arroz con Pato",
+    "descripcion": "Plato emblemático de la cocina peruana, preparado con arroz cocido en un caldo de pato, ají amarillo, cilantro y cerveza, servido con trozos de pato tierno.",
+    "foto": "arroz_con_pato.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Pato, arroz, ají amarillo, cerveza, cilantro, cebolla, ajo, caldo de pollo, aceite, sal",
+    "preparacion": "Dorar el pato en una olla con aceite caliente. Agregar cebolla, ajo y ají amarillo picados, cilantro picado y cerveza. Cocinar hasta que el pato esté tierno. Retirar el pato y cocinar el arroz en el caldo de pollo con la mezcla anterior. Servir el arroz con el pato tierno encima.",
+    "nutricional": "410 calorías"
+  },
+  {
+    "nombre": "Ceviche Mixto",
+    "descripcion": "Plato emblemático de la gastronomía peruana, preparado con pescado blanco, calamar, camarón y mejillones marinados en jugo de limón, ají limo, cilantro, cebolla roja y servido con camote y maíz.",
+    "foto": "ceviche_mixto.jpg",
+    "tipo": "Entrada",
+    "ingredientes": "Pescado blanco, calamar, camarón, mejillones, limón, ají limo, cilantro, cebolla roja, camote, maíz, sal",
+    "preparacion": "Cortar el pescado, calamar y camarones en trozos pequeños. Marinados en jugo de limón con ají limo picado, cilantro picado y cebolla roja en rodajas. Servir acompañado de camote y maíz cocido.",
+    "nutricional": "290 calorías"
+  },
+  {
+    "nombre": "Seco de Cordero",
+    "descripcion": "Estofado de cordero cocido lentamente en una salsa de ají panca, cerveza, cilantro, cebolla y especias, servido con frejoles y arroz.",
+    "foto": "seco_cordero.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Pierna de cordero, ají panca, cerveza, cilantro, cebolla, ajo, comino, pimienta, frejoles, arroz, aceite, sal",
+    "preparacion": "Dorar la pierna de cordero en una olla con aceite caliente. Agregar cebolla, ají panca molido, cilantro picado, ajo picado, comino, pimienta y cerveza. Cocinar a fuego lento hasta que la carne esté tierna y la salsa espese. Servir con frejoles refritos y arroz blanco.",
+    "nutricional": "480 calorías"
+  },
+  {
+    "nombre": "Tacu Tacu",
+    "descripcion": "Plato a base de arroz y frijoles refritos, acompañado de bistec, huevo frito y plátano frito.",
+    "foto": "tacu_tacu.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Arroz cocido, frijoles cocidos, bistec de res, huevos, plátanos, cebolla, ajo, ají amarillo, comino, aceite, sal, pimienta",
+    "preparacion": "Preparar un puré con arroz cocido y frijoles cocidos. En una sartén caliente con aceite, saltear cebolla, ajo y ají amarillo picados. Agregar el puré de arroz y frijoles y cocinar hasta que esté dorado por ambos lados. Freír un bistec de res y un huevo. Servir el tacu tacu acompañado de bistec, huevo frito y plátano frito.",
+    "nutricional": "380 calorías"
+  },
+  {
+    "nombre": "Papa Rellena",
+    "descripcion": "Papa rellena con una mezcla de carne molida, cebolla, ají amarillo, aceitunas y huevo, luego empanizada y frita.",
+    "foto": "papa_rellena.jpg",
+    "tipo": "Entrada",
+    "ingredientes": "Papas amarillas, carne molida, cebolla, ajo, ají amarillo, aceitunas, huevo duro, comino, aceite, harina, pan rallado, huevos, sal, pimienta",
+    "preparacion": "Cocer las papas en agua con sal hasta que estén tiernas. Preparar un relleno con carne molida, cebolla, ajo, ají amarillo, aceitunas picadas, huevo duro picado, comino, sal y pimienta. Formar bolitas con el puré de papas cocidas, rellenarlas con la mezcla de carne y darles forma de papa. Pasar las papas rellenas por harina, huevo batido y pan rallado. Freír en aceite caliente hasta que estén doradas por fuera.",
+    "nutricional": "320 calorías"
+  },
+  {
+    "nombre": "Arroz con Pollo",
+    "descripcion": "Plato a base de arroz cocido con pollo, cilantro, ají amarillo y verduras, cocido en caldo de pollo.",
+    "foto": "arroz_con_pollo.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Pollo, arroz, ají amarillo, cilantro, cebolla, ajo, zanahoria, choclo, arvejas, caldo de pollo, aceite, sal, pimienta",
+    "preparacion": "Dorar el pollo en una olla con aceite caliente. Agregar cebolla, ajo, ají amarillo, cilantro picado, zanahoria en rodajas, choclo desgranado, arvejas y arroz. Cocinar por unos minutos y luego agregar caldo de pollo. Cocinar hasta que el arroz esté tierno y el pollo esté cocido. Servir caliente.",
+    "nutricional": "420 calorías"
+  },
+  {
+    "nombre": "Chupe de Camarones",
+    "descripcion": "Sopa espesa de camarones cocidos en un caldo de ají amarillo, cebolla, tomate, choclo y papas, espesada con leche evaporada y huevos, y aromatizada con huacatay.",
+    "foto": "chupe_camarones.jpg",
+    "tipo": "Sopa",
+    "ingredientes": "Camarones, ají amarillo, cebolla, tomate, choclo, papas, leche evaporada, huevos, huacatay, aceite, sal",
+    "preparacion": "Saltear cebolla, tomate y ají amarillo en una olla con aceite caliente. Agregar choclo desgranado, papas cortadas en cubos y caldo de pescado. Cocinar hasta que las papas estén tiernas. Agregar los camarones y cocinar hasta que estén rosados. Espesar la sopa con una mezcla de leche evaporada y huevos batidos. Aromatizar con huacatay picado y servir caliente.",
+    "nutricional": "380 calorías"
+  },
+  {
+    "nombre": "Sudado de Pescado",
+    "descripcion": "Plato de pescado cocido en una salsa de tomate, cebolla, ají amarillo, ajo y hierbas aromáticas, servido con arroz blanco y yuca cocida.",
+    "foto": "sudado_pescado.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Filete de pescado blanco, tomate, cebolla, ají amarillo, ajo, caldo de pescado, cilantro, comino, arroz, yuca, aceite, sal",
+    "preparacion": "Saltear cebolla, tomate, ají amarillo y ajo en una olla con aceite caliente. Agregar caldo de pescado, cilantro picado y comino. Cocinar hasta que la salsa espese ligeramente. Agregar el pescado cortado en trozos y cocinar hasta que esté tierno. Servir con arroz blanco y yuca cocida.",
+    "nutricional": "320 calorías"
+  },
+
+  {
+    "nombre": "Parihuela",
+    "descripcion": "Sopa de mariscos con pescado, camarones, calamares, mejillones y langostinos, cocidos en un caldo de tomate y ají.",
+    "foto": "parihuela.jpg",
+    "tipo": "Sopa",
+    "ingredientes": "Filete de pescado, camarones, calamares, mejillones, langostinos, cebolla, ajo, ají panca, tomate, vino blanco, caldo de pescado, cilantro, comino, aceite, sal, pimienta",
+    "preparacion": "Sofreír cebolla, ajo y ají panca en una olla con aceite caliente. Agregar tomate picado, vino blanco y caldo de pescado. Cocinar por unos minutos y luego añadir los mariscos (pescado, camarones, calamares, mejillones, langostinos). Cocinar hasta que los mariscos estén cocidos. Servir caliente, espolvoreado con cilantro picado.",
+    "nutricional": "350 calorías"
+  },
+  {
+    "nombre": "Cau Cau",
+    "descripcion": "Guiso a base de mondongo (callos de res) cocidos con papas, ají amarillo, cebolla y condimentos.",
+    "foto": "cau_cau.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Mondongo, papas amarillas, ají amarillo, cebolla, ajo, comino, aceite, huevos, arroz, aceitunas, cilantro, limón, sal, pimienta",
+    "preparacion": "Cocer el mondongo en agua con sal hasta que esté tierno. Cortar en trozos pequeños y reservar. Sofreír cebolla, ajo y ají amarillo en una olla con aceite caliente. Agregar el mondongo cocido, papas amarillas en cubos y agua. Cocinar hasta que las papas estén tiernas. Servir caliente, acompañado de arroz blanco, huevos duros, aceitunas y limón.",
+    "nutricional": "300 calorías"
+  },
+  {
+    "nombre": "Pollo a la Brasa",
+    "descripcion": "Pollo entero marinado en una mezcla de hierbas y especias, asado a la parrilla y servido con papas fritas y ensalada.",
+    "foto": "pollo_a_la_brasa.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Pollo entero, cerveza, ajo, sillao (salsa de soja), comino, pimienta, sal, papas, aceite, ensalada",
+    "preparacion": "Marinar el pollo en una mezcla de cerveza, ajo picado, sillao, comino, pimienta y sal. Dejar reposar en el refrigerador durante varias horas. Asar el pollo a la parrilla hasta que esté dorado y cocido por dentro. Servir con papas fritas y ensalada fresca.",
+    "nutricional": "450 calorías"
+  },
+  {
+    "nombre": "Chaufa",
+    "descripcion": "Arroz frito al estilo chino, preparado con pollo, carne de cerdo, camarones o combinación de ellos, y sazonado con sillao y especias.",
+    "foto": "chaufa.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Arroz, pollo, carne de cerdo, camarones, cebolla, cebollín, ajo, huevo, sillao, jengibre, ajinomoto, aceite, sal, pimienta",
+    "preparacion": "Cocinar el arroz y dejar enfriar. En un wok o sartén grande, saltear cebolla, cebollín, ajo y jengibre picados. Agregar pollo, carne de cerdo y camarones cortados en trozos y cocinar hasta que estén dorados. Agregar el arroz cocido y revolver bien. Hacer un hueco en el centro y añadir los huevos batidos, revolviendo hasta que estén cocidos. Condimentar con sillao, ajinomoto, sal y pimienta al gusto.",
+    "nutricional": "380 calorías"
+  },
+  {
+    "nombre": "Arroz con Leche",
+    "descripcion": "Postre hecho a base de arroz cocido con leche, azúcar, canela y ralladura de limón.",
+    "foto": "arroz_con_leche.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Arroz, leche, azúcar, canela, ralladura de limón",
+    "preparacion": "Cocinar el arroz en agua con sal hasta que esté tierno. Agregar leche, azúcar, canela y ralladura de limón y cocinar a fuego lento hasta que espese. Servir frío o caliente, espolvoreado con canela en polvo.",
+    "nutricional": "200 calorías"
+  },
+  {
+    "nombre": "Mazamorra Morada",
+    "descripcion": "Postre hecho a base de maíz morado cocido con frutas deshidratadas y endulzado con azúcar y especias.",
+    "foto": "mazamorra_morada.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Maíz morado, piña deshidratada, manzana deshidratada, durazno deshidratado, azúcar, canela, clavo de olor",
+    "preparacion": "Cocinar el maíz morado en agua con piña, manzana y durazno deshidratados, azúcar, canela y clavo de olor hasta que esté bien cocido y espeso. Servir frío.",
+    "nutricional": "220 calorías"
+  },
+  {
+    "nombre": "Picarones",
+    "descripcion": "Rosquillas dulces fritas hechas a base de masa de zapallo y camote, servidas con miel de chancaca.",
+    "foto": "picarones.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Zapallo, camote, harina, levadura, azúcar, anís, clavo de olor, canela, miel de chancaca",
+    "preparacion": "Cocer el zapallo y el camote, hacer un puré y dejar enfriar. Agregar harina, levadura, azúcar, anís, clavo de olor y canela. Dejar reposar la masa durante unas horas. Formar los picarones y freír en aceite caliente hasta que estén dorados. Servir con miel de chancaca caliente.",
+    "nutricional": "300 calorías"
+  },
+  {
+    "nombre": "Suspiro a la Limeña",
+    "descripcion": "Postre compuesto por una capa de manjar blanco cubierta con merengue italiano y espolvoreado con canela.",
+    "foto": "suspiro_a_la_limena.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Leche evaporada, leche condensada, azúcar, yemas de huevo, esencia de vainilla, merengue italiano, canela",
+    "preparacion": "Cocinar la leche evaporada con la leche condensada, las yemas de huevo y la esencia de vainilla hasta obtener un manjar blanco espeso. Verter en copas individuales y dejar enfriar. Preparar el merengue italiano y cubrir el manjar blanco con una capa de merengue. Espolvorear con canela y refrigerar antes de servir.",
+    "nutricional": "250 calorías"
+  },
+  {
+    "nombre": "Alfajores",
+    "descripcion": "Dulce compuesto por dos galletas de maicena rellenas de manjar blanco y espolvoreadas con azúcar glass.",
+    "foto": "alfajores.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Galletas de maicena, manjar blanco, azúcar glass",
+    "preparacion": "Armar los alfajores colocando una cucharada de manjar blanco entre dos galletas de maicena. Espolvorear con azúcar glass.",
+    "nutricional": "180 calorías"
+  },
+  {
+    "nombre": "Turrón de Doña Pepa",
+    "descripcion": "Dulce tradicional hecho a base de masa de harina de trigo, anís, miel de chancaca y decorado con grageas de colores.",
+    "foto": "turron_de_dona_pepa.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Harina de trigo, anís, miel de chancaca, azúcar, grageas de colores",
+    "preparacion": "Preparar una masa con harina de trigo, anís y miel de chancaca. Extender la masa y cortar en rectángulos. Hornear hasta que estén dorados. Bañar con miel de chancaca y decorar con grageas de colores.",
+    "nutricional": "220 calorías"
+  },
+  {
+    "nombre": "Crema Volteada",
+    "descripcion": "Postre similar al flan, hecho a base de leche, huevos, azúcar y esencia de vainilla.",
+    "foto": "crema_volteada.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Leche evaporada, leche condensada, huevos, azúcar, esencia de vainilla",
+    "preparacion": "Licuar todos los ingredientes y verter en un molde acaramelado. Hornear a baño maría hasta que esté firme. Dejar enfriar y desmoldar.",
+    "nutricional": "230 calorías"
+  },
+  {
+    "nombre": "Helado de Lúcuma",
+    "descripcion": "Helado cremoso hecho a base de pulpa de lúcuma, leche, azúcar y crema de leche.",
+    "foto": "helado_de_lucuma.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Pulpa de lúcuma, leche, azúcar, crema de leche",
+    "preparacion": "Licuar la pulpa de lúcuma con leche, azúcar y crema de leche. Verter en una máquina de helado y batir hasta obtener una mezcla cremosa. Congelar hasta que esté firme.",
+    "nutricional": "250 calorías"
+  },
+  {
+    "nombre": "Inca Kola",
+    "descripcion": "Bebida gaseosa de color amarillo brillante y sabor a piña, muy popular en Perú.",
+    "foto": "inca_kola.jpg",
+    "tipo": "Bebida",
+    "ingredientes": "Agua carbonatada, azúcar, extracto de hierbas, ácido cítrico, cafeína, tartrazina",
+    "preparacion": "Mezclar agua carbonatada con azúcar, extracto de hierbas, ácido cítrico, cafeína y tartrazina. Envasar en botellas y carbonatar.",
+    "nutricional": "200 calorías"
+  },
+  {
+    "nombre": "Chicha de Jora",
+    "descripcion": "Bebida alcohólica tradicional hecha a base de maíz fermentado, muy consumida en festividades y celebraciones.",
+    "foto": "chicha_de_jora.jpg",
+    "tipo": "Bebida",
+    "ingredientes": "Maíz jora, agua, azúcar, piña, manzana, canela, clavo de olor",
+    "preparacion": "Cocinar el maíz jora en agua con piña, manzana, canela y clavo de olor hasta que esté bien cocido. Colar y agregar azúcar al gusto. Dejar fermentar durante varios días hasta obtener una bebida alcohólica ligera.",
+    "nutricional": "250 calorías"
+  },
+  {
+    "nombre": "Picarones",
+    "descripcion": "Rosquillas dulces fritas hechas a base de masa de zapallo y camote, servidas con miel de chancaca.",
+    "foto": "picarones.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Zapallo, camote, harina, levadura, azúcar, anís, clavo de olor, canela, miel de chancaca",
+    "preparacion": "Cocer el zapallo y el camote, hacer un puré y dejar enfriar. Agregar harina, levadura, azúcar, anís, clavo de olor y canela. Dejar reposar la masa durante unas horas. Formar los picarones y freír en aceite caliente hasta que estén dorados. Servir con miel de chancaca caliente.",
+    "nutricional": "300 calorías"
+  },
+  {
+    "nombre": "Suspiro a la Limeña",
+    "descripcion": "Postre compuesto por una capa de manjar blanco cubierta con merengue italiano y espolvoreado con canela.",
+    "foto": "suspiro_a_la_limena.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Leche evaporada, leche condensada, azúcar, yemas de huevo, esencia de vainilla, merengue italiano, canela",
+    "preparacion": "Cocinar la leche evaporada con la leche condensada, las yemas de huevo y la esencia de vainilla hasta obtener un manjar blanco espeso. Verter en copas individuales y dejar enfriar. Preparar el merengue italiano y cubrir el manjar blanco con una capa de merengue. Espolvorear con canela y refrigerar antes de servir.",
+    "nutricional": "250 calorías"
+  },
+  {
+    "nombre": "Alfajores",
+    "descripcion": "Dulce compuesto por dos galletas de maicena rellenas de manjar blanco y espolvoreadas con azúcar glass.",
+    "foto": "alfajores.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Galletas de maicena, manjar blanco, azúcar glass",
+    "preparacion": "Armar los alfajores colocando una cucharada de manjar blanco entre dos galletas de maicena. Espolvorear con azúcar glass.",
+    "nutricional": "180 calorías"
+  },
+  {
+    "nombre": "Turrón de Doña Pepa",
+    "descripcion": "Dulce tradicional hecho a base de masa de harina de trigo, anís, miel de chancaca y decorado con grageas de colores.",
+    "foto": "turron_de_dona_pepa.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Harina de trigo, anís, miel de chancaca, azúcar, grageas de colores",
+    "preparacion": "Preparar una masa con harina de trigo, anís y miel de chancaca. Extender la masa y cortar en rectángulos. Hornear hasta que estén dorados. Bañar con miel de chancaca y decorar con grageas de colores.",
+    "nutricional": "220 calorías"
+  },
+  {
+    "nombre": "Crema Volteada",
+    "descripcion": "Postre similar al flan, hecho a base de leche, huevos, azúcar y esencia de vainilla.",
+    "foto": "crema_volteada.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Leche evaporada, leche condensada, huevos, azúcar, esencia de vainilla",
+    "preparacion": "Licuar todos los ingredientes y verter en un molde acaramelado. Hornear a baño maría hasta que esté firme. Dejar enfriar y desmoldar.",
+    "nutricional": "230 calorías"
+  },
+  {
+    "nombre": "Helado de Lúcuma",
+    "descripcion": "Helado cremoso hecho a base de pulpa de lúcuma, leche, azúcar y crema de leche.",
+    "foto": "helado_de_lucuma.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Pulpa de lúcuma, leche, azúcar, crema de leche",
+    "preparacion": "Licuar la pulpa de lúcuma con leche, azúcar y crema de leche. Verter en una máquina de helado y batir hasta obtener una mezcla cremosa. Congelar hasta que esté firme.",
+    "nutricional": "250 calorías"
+  },
+  {
+    "nombre": "Chicha Morada",
+    "descripcion": "Bebida refrescante y dulce hecha a base de maíz morado cocido con piña, manzana, canela y clavo de olor.",
+    "foto": "chicha_morada.jpg",
+    "tipo": "Bebida",
+    "ingredientes": "Maíz morado, piña, manzana, azúcar, canela, clavo de olor, limón",
+    "preparacion": "Cocinar el maíz morado en agua con piña, manzana, canela y clavo de olor hasta que esté bien cocido. Colar y agregar azúcar al gusto. Servir frío, espolvoreado con canela en polvo y con una rodaja de limón.",
+    "nutricional": "150 calorías"
+  },
+  {
+    "nombre": "Inca Kola",
+    "descripcion": "Bebida gaseosa de color amarillo brillante y sabor a piña, muy popular en Perú.",
+    "foto": "inca_kola.jpg",
+    "tipo": "Bebida",
+    "ingredientes": "Agua carbonatada, azúcar, extracto de hierbas, ácido cítrico, cafeína, tartrazina",
+    "preparacion": "Mezclar agua carbonatada con azúcar, extracto de hierbas, ácido cítrico, cafeína y tartrazina. Envasar en botellas y carbonatar.",
+    "nutricional": "200 calorías"
+  },
+  {
+    "nombre": "Chicha de Jora",
+    "descripcion": "Bebida alcohólica tradicional hecha a base de maíz fermentado, muy consumida en festividades y celebraciones.",
+    "foto": "chicha_de_jora.jpg",
+    "tipo": "Bebida",
+    "ingredientes": "Maíz jora, agua, azúcar, piña, manzana, canela, clavo de olor",
+    "preparacion": "Cocinar el maíz jora en agua con piña, manzana, canela y clavo de olor hasta que esté bien cocido. Colar y agregar azúcar al gusto. Dejar fermentar durante varios días hasta obtener una bebida alcohólica ligera.",
+    "nutricional": "250 calorías"
+  }
+]
