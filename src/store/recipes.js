@@ -1,7 +1,16 @@
 import { create } from "zustand";
 import { devtools, persist } from "zustand/middleware";
 
-let API_URL = "http://localhost:3000/";
+let API_URL = "";
+// Verifica si estamos en el navegador antes de acceder a window
+if (typeof window !== "undefined") {
+  // Detectar si estamos en producción o local y establecer la URL de la API en consecuencia
+  if (window.location.hostname === "cesarscc-recipes-peruvians.netlify.app") {
+    API_URL = "https://cesarscc-recipes-peruvians.netlify.app/";
+  } else {
+    API_URL = "http://localhost:3000/";
+  }
+}
 
 export const useRecipesStore = create()(
   devtools(
