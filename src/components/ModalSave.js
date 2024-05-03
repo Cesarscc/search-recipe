@@ -5,7 +5,9 @@ const ModalSave = ({ closeModalAlert }) => {
   useEffect(() => {
     return () => {
       // Aquí cerramos el modal después de 5 segundos
+      console.log("inicio");
       setTimeout(closeModalAlert, 1500);
+      console.log("finish");
     };
   }, []);
 
