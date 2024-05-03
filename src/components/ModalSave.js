@@ -3,10 +3,12 @@ import { useEffect } from "react";
 
 const ModalSave = ({ closeModalAlert }) => {
   useEffect(() => {
+    const timeout = setTimeout(closeModalAlert, 1500);
+
     return () => {
-      setTimeout(closeModalAlert, 1500);
+      clearTimeout(timeout);
     };
-  });
+  }, [closeModalAlert]);
 
   return (
     <div className="fixed top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-50 z-40">
