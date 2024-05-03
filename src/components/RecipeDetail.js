@@ -61,7 +61,7 @@ const RecipeDetail = ({ isSaved, recipe, closeModal }) => {
             {recipe?.nombre}
           </h1>
           <div className="flex flex-col md:flex-row xl:justify-evenly gap-12 xl:gap-5">
-            <div className="w-full xl:w-[40%] h-[33vh] md:h-[35vw] xl:h-[30vw] 2xl:h-full">
+            <div className="w-full xl:w-[40%] h-[30.5vh] md:h-[35vw] xl:h-[30vw] 2xl:h-full">
               <Image
                 className="inset-0 w-full h-full object-cover rounded-[16px]"
                 src={`https://source.unsplash.com/collection/2533969/500x300/?${recipe?.nombre}`}
