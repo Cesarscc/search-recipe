@@ -31,8 +31,10 @@ const CardRecipe = ({ data }) => {
           className="absolute bottom-0 flex justify-between w-full px-1 rounded-b-xl"
           style={{ backgroundColor: "rgba(254, 175, 0, 0.6)" }}
         >
-          <h1 className="text-sm text-white font-medium">{data.nombre}</h1>
-          <p className="text-sm text-white">{data.nutricional}</p>
+          <h1 className="text-sm text-white font-medium truncate">
+            {data.nombre}
+          </h1>
+          <p className="text-sm text-white truncate">{data.nutricional}</p>
         </div>
       </div>
       {isOpenModal && (

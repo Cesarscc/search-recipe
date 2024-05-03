@@ -9,6 +9,24 @@
     "nutricional": "250 calorías"
   },
   {
+    "nombre": "Tallarin con Huancaína y Lomo",
+    "descripcion": "Delicioso plato peruano que combina tallarines con salsa huancaína y lomo saltado.",
+    "foto": "Tallarines_huancaina.jpg",
+    "tipo": "Plato de fondo",
+    "ingredientes": "Tallarines, salsa huancaína, filete de res, cebolla, tomate, ají amarillo, Aceite vegetal, Sal, pimienta",
+    "preparacion": "Cocina los tallarines en agua hirviendo con sal hasta que estén al dente. Escúrrelos y reserva. Prepara la salsa huancaína siguiendo la receta tradicional. Reserva. Corta el filete de res en tiras y sazónalo con sal y pimienta al gusto. En una sartén caliente con un poco de aceite, cocina las tiras de carne hasta que estén doradas por fuera y jugosas por dentro. Retira del fuego y reserva. Corta la cebolla y los tomates en juliana. Corta el ají amarillo en tiras. En la misma sartén donde cocinaste la carne, saltea la cebolla, los tomates y el ají amarillo hasta que estén tiernos. Sirve los tallarines en platos individuales. Vierte la salsa huancaína sobre los tallarines y coloca las tiras de lomo saltado encima. ¡Listo para disfrutar!",
+    "nutricional": "900 calorías"
+  },
+  {
+    "nombre": "Pie de Limón",
+    "descripcion": "Delicioso postre con base de masa quebrada y relleno de crema de limón.",
+    "foto": "pie_limon.jpg",
+    "tipo": "Postre",
+    "ingredientes": "Masa quebrada, limones, leche condensada, huevos, azúcar",
+    "preparacion": "Precalienta el horno a 180°C (350°F). Extiende la masa quebrada y forra un molde para tarta. Pincha la base con un tenedor y hornea durante 15 minutos, o hasta que esté ligeramente dorada. Retira del horno y deja enfriar. Mientras tanto, prepara la crema de limón. Ralla la cáscara de los limones y exprime su jugo. En un bol, bate los huevos con el azúcar hasta que estén cremosos. Incorpora la leche condensada, la ralladura y el jugo de limón. Mezcla bien. Vierte la crema de limón sobre la masa precocida y hornea durante 20-25 minutos, o hasta que esté firme en el centro. Retira del horno y deja enfriar completamente antes de servir. Puedes espolvorear con azúcar glas o decorar con rodajas de limón si lo deseas.",
+    "nutricional": "990 calorías"
+  },
+  {
     "nombre": "Lomo Saltado",
     "descripcion": "Plato de carne de res salteada con cebolla, tomate, ají y acompañada de papas fritas.",
     "foto": "lomo_saltado.jpg",
@@ -243,12 +261,12 @@
     "nutricional": "160 calorías"
   },
   {
-    "nombre": "Ensalada de Quinoa y Vegetales",
-    "descripcion": "Ensalada saludable y nutritiva elaborada con quinoa cocida, acompañada de una variedad de vegetales frescos como pepino, tomate, pimiento y cebolla, aliñada con limón y aceite de oliva.",
-    "foto": "ensalada_quinoa_vegetales.jpg",
+    "nombre": "Ensalada de Quinua y Vegetales",
+    "descripcion": "Ensalada saludable y nutritiva elaborada con quinua cocida, acompañada de una variedad de vegetales frescos como pepino, tomate, pimiento y cebolla, aliñada con limón y aceite de oliva.",
+    "foto": "ensalada_quinua_vegetales.jpg",
     "tipo": "Dieta",
-    "ingredientes": "Quinoa, pepino, tomate, pimiento, cebolla, limón, aceite de oliva, sal",
-    "preparacion": "Cocinar la quinoa en agua con sal hasta que esté tierna. Dejar enfriar. Picar pepino, tomate, pimiento y cebolla en cubos pequeños. Mezclar todos los ingredientes en un tazón. Aliñar con jugo de limón, aceite de oliva y sal al gusto.",
+    "ingredientes": "quinua, pepino, tomate, pimiento, cebolla, limón, aceite de oliva, sal",
+    "preparacion": "Cocinar la quinua en agua con sal hasta que esté tierna. Dejar enfriar. Picar pepino, tomate, pimiento y cebolla en cubos pequeños. Mezclar todos los ingredientes en un tazón. Aliñar con jugo de limón, aceite de oliva y sal al gusto.",
     "nutricional": "170 calorías"
   },
   {
@@ -402,7 +420,7 @@
     "descripcion": "Pollo entero marinado en una mezcla de hierbas y especias, asado a la parrilla y servido con papas fritas y ensalada.",
     "foto": "pollo_a_la_brasa.jpg",
     "tipo": "Plato de fondo",
-    "ingredientes": "Pollo entero, cerveza, ajo, sillao (salsa de soja), comino, pimienta, sal, papas, aceite, ensalada",
+    "ingredientes": "Pollo entero, cerveza, ajo, sillao, comino, pimienta, sal, papas, aceite, ensalada",
     "preparacion": "Marinar el pollo en una mezcla de cerveza, ajo picado, sillao, comino, pimienta y sal. Dejar reposar en el refrigerador durante varias horas. Asar el pollo a la parrilla hasta que esté dorado y cocido por dentro. Servir con papas fritas y ensalada fresca.",
     "nutricional": "450 calorías"
   },
@@ -549,15 +567,6 @@
     "ingredientes": "Leche evaporada, leche condensada, huevos, azúcar, esencia de vainilla",
     "preparacion": "Licuar todos los ingredientes y verter en un molde acaramelado. Hornear a baño maría hasta que esté firme. Dejar enfriar y desmoldar.",
     "nutricional": "230 calorías"
-  },
-  {
-    "nombre": "Helado de Lúcuma",
-    "descripcion": "Helado cremoso hecho a base de pulpa de lúcuma, leche, azúcar y crema de leche.",
-    "foto": "helado_de_lucuma.jpg",
-    "tipo": "Postre",
-    "ingredientes": "Pulpa de lúcuma, leche, azúcar, crema de leche",
-    "preparacion": "Licuar la pulpa de lúcuma con leche, azúcar y crema de leche. Verter en una máquina de helado y batir hasta obtener una mezcla cremosa. Congelar hasta que esté firme.",
-    "nutricional": "250 calorías"
   },
   {
     "nombre": "Chicha Morada",

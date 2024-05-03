@@ -48,8 +48,8 @@ const PaginadorRecetas = ({ elementos }) => {
   };
 
   return (
-    <div className="mx-5 xl:mx-24">
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 xl:gap-10">
+    <div className="mx-5 xl:mx-10 2xl:mx-20">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 2xl:gap-10">
         {elementosPaginaActual.map((recipe, index) => (
           <CardRecipe key={index} data={recipe} />
         ))}

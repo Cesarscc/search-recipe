@@ -13,7 +13,7 @@ const Tablero = () => {
 
   return (
     <div className="flex justify-center items-center mt-4 relative">
-      <div className="w-[90%] h-[70vh] xl:h-[80vh] bg-[#fffaeb] rounded-2xl border-2 border-orange-800 overflow-y-scroll">
+      <div className="w-[90%] h-[70vh] xl:h-[80vh] bg-[#fffaeb] rounded-2xl border-2 border-orange-800 overflow-y-scroll lg:overflow-hidden">
         {recipes.length > 0 ? (
           <div className="mt-5">
             <PaginadorRecetas elementos={recipes} />

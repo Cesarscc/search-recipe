@@ -10,10 +10,17 @@ const SelectIngredient = () => {
   const uniqueIngredients = [
     ...new Set(
       [].concat(
-        ...[...cloneRecipes.map((recipe) => recipe.ingredientes.split(","))]
+        ...[
+          ...cloneRecipes.map((recipe) =>
+            recipe.ingredientes
+              .toLowerCase()
+              .split(",")
+              .map((ingredient) => ingredient.trim())
+          ),
+        ]
       )
     ),
-  ].sort();
+  ].sort((a, b) => a.localeCompare(b, "es", { sensitivity: "accent" }));
   uniqueIngredients.unshift("todos");
 
   const changeSelected = useRecipesStore((state) => state.changeSelected);

@@ -37,7 +37,9 @@ export const useRecipesStore = create()(
             const recipesClone = structuredClone(originalRecipes);
             if (ingredient !== "" && ingredient != "todos") {
               let filteredRecipes = recipesClone.filter((recipe) =>
-                recipe.ingredientes.includes(ingredient)
+                recipe.ingredientes
+                  .toLowerCase()
+                  .includes(ingredient.toLowerCase())
               );
               set({ recipes: filteredRecipes });
             } else {

@@ -55,7 +55,7 @@ const RecipeDetail = ({ isSaved, recipe, closeModal }) => {
       >
         <div
           ref={modalRef}
-          className="bg-[#fdf2c5] w-full mx-5 h-[90%] lg:h-[85%] p-4 rounded-[40px] xl:rounded-[75px] overflow-y-scroll"
+          className="bg-[#fdf2c5] w-full mx-5 h-[90%] lg:h-[85%] p-4 rounded-[40px] xl:rounded-[75px]"
         >
           <h1 className="text-[20px] sm:text-[22px] xl:text-[50px] 2xl:text-[70px] font-semibold text-[#7c4212] text-center underline">
             {recipe?.nombre}
@@ -94,40 +94,42 @@ const RecipeDetail = ({ isSaved, recipe, closeModal }) => {
               </div>
             </div>
             <div
-              className="w-full xl:w-[60%] text-left border border-[#7c4212] shadow-md space-y-2 xl:space-y-4 rounded-lg"
+              className="w-full xl:w-[60%] text-left border border-[#7c4212] shadow-md space-y-2 xl:space-y-4 rounded-lg overflow-y-scroll md:overflow-hidden max-h-[300px] h-[100vh] md:max-h-max md:h-auto"
               style={{ backgroundColor: "rgba(247, 190, 40, 0.25)" }}
             >
-              <div>
-                <h2 className="text-base xl:text-2xl font-semibold text-[#441a04]">
-                  Descripción:
-                </h2>
-                <p className="text-sm xl:text-lg font-medium text-[#f19e0f]">
-                  {recipe?.descripcion}
-                </p>
-              </div>
-              <div>
-                <h2 className="text-base xl:text-2xl font-semibold text-[#441a04]">
-                  Ingredientes:
-                </h2>
-                <p className="text-sm xl:text-lg font-medium text-[#f19e0f]">
-                  {recipe?.ingredientes}
-                </p>
-              </div>
-              <div>
-                <h2 className="text-base xl:text-2xl font-semibold text-[#441a04]">
-                  Preparación:
-                </h2>
-                <p className="text-sm xl:text-lg font-medium text-[#f19e0f]">
-                  {recipe?.preparacion}
-                </p>
-              </div>
-              <div className="flex items-center gap-5">
-                <h2 className="text-base xl:text-2xl font-semibold text-[#441a04]">
-                  Calorias:
-                </h2>
-                <p className="text-sm xl:text-lg font-medium text-[#f19e0f] mt-1">
-                  {recipe?.nutricional}
-                </p>
+              <div className="overflow-hidden">
+                <div>
+                  <h2 className="text-base xl:text-2xl font-semibold text-[#441a04]">
+                    Descripción:
+                  </h2>
+                  <p className="text-sm xl:text-base 2xl:text-lg font-medium text-[#f19e0f]">
+                    {recipe?.descripcion}
+                  </p>
+                </div>
+                <div>
+                  <h2 className="text-base xl:text-2xl font-semibold text-[#441a04]">
+                    Ingredientes:
+                  </h2>
+                  <p className="text-sm xl:text-base 2xl:text-lg font-medium text-[#f19e0f]">
+                    {recipe?.ingredientes}
+                  </p>
+                </div>
+                <div>
+                  <h2 className="text-base xl:text-2xl font-semibold text-[#441a04]">
+                    Preparación:
+                  </h2>
+                  <p className="text-sm xl:text-base 2xl:text-lg font-medium text-[#f19e0f]">
+                    {recipe?.preparacion}
+                  </p>
+                </div>
+                <div className="flex items-center gap-5">
+                  <h2 className="text-base xl:text-2xl font-semibold text-[#441a04]">
+                    Calorias:
+                  </h2>
+                  <p className="text-sm xl:text-lg font-medium text-[#f19e0f] mt-1">
+                    {recipe?.nutricional}
+                  </p>
+                </div>
               </div>
             </div>
           </div>
