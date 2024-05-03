@@ -4,12 +4,9 @@ import { useEffect } from "react";
 const ModalSave = ({ closeModalAlert }) => {
   useEffect(() => {
     return () => {
-      // Aquí cerramos el modal después de 5 segundos
-      console.log("inicio");
       setTimeout(closeModalAlert, 1500);
-      console.log("finish");
     };
-  }, []);
+  });
 
   return (
     <div className="fixed top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-50 z-40">
